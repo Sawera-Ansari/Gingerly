@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016703107196",
+    "project_id": "gingerlymain",
+    "storage_bucket": "gingerlymain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016703107196:android:aa38c8a677dcfcbf6909f9",
+        "android_client_info": {
+          "package_name": "com.asws.gingerly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016703107196-84n7vul47a574hsne3m6lvvc4463a93a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuLzsBG_8RhiqYS7aD4Q47_nJ3TLY9CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016703107196-84n7vul47a574hsne3m6lvvc4463a93a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
